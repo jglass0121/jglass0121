@@ -6,10 +6,10 @@
 
 
 <div align="center">
-    ![전유진's github stats](https://github-readme-stats.vercel.app/api?username=jglass0121&show_icons=true&theme=tokyonight)
+![전유진's github stats](https://github-readme-stats.vercel.app/api?username=jglass0121&show_icons=true&theme=tokyonight)
     ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jglass0121&layout=compact)
-</div>
 
+</div>
 
 <!--내용 부분-->
 <h3 align="center">✨ Tech Stack ✨</h3>
