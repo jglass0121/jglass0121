@@ -10,7 +10,7 @@
     ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jglass0121&layout=compact)
 
 </div>
-<img src="https://hitscounter.dev/api/hit?url=https%3A%2F%2Fgithub.com%2Fjglass0121&label=Hit&icon=github&color=%236ea8fe&message=&style=flat-square&tz=Asia%2FSeoul">
+</img src="https://hitscounter.dev/api/hit?url=https%3A%2F%2Fgithub.com%2Fjglass0121&label=Hit&icon=github&color=%236ea8fe&message=&style=flat-square&tz=Asia%2FSeoul">
 
 <!--내용 부분-->
 <h3 align="center">✨ Tech Stack ✨</h3>
