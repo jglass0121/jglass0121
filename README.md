@@ -4,9 +4,6 @@
     <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Welcome%20Github&fontSize=90&animation=fadeIn&fontAlignY=38&descAlign=62"/>
 </p>
 
- [![jglass0121's GitHub stats](https://github-readme-stats.vercel.app/api?username=jglass0121)](https://github.com/anuraghazra/github-readme-stats)
-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jglass0121)](https://github.com/anuraghazra/github-readme-stats)
-
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img src="https://github-readme-stats.vercel.app/api?username=jglass0121" />
